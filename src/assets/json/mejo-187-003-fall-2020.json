@@ -1,0 +1,315 @@
+{
+  "about": {
+    "audience": 18,
+    "received": 14,
+    "instructor": "Andrew Nicholas Sipes",
+    "course": "Foundations of Interactive Media",
+    "department": "MEJO",
+    "number": 187,
+    "section": 3,
+    "semester": "Fall",
+    "year": 2020
+  },
+  "sections": {
+    "course": {
+      "questions": [
+        {
+          "title": "The course syllabus, learning objectives, schedule and grading scheme were clear to me.",
+          "responses": {
+            "sa": 7,
+            "a": 5,
+            "n": 1,
+            "d": 1,
+            "sd": 0
+          },
+          "course": {
+            "mean": 0,
+            "median": 5,
+            "standardDeviation": 0
+          },
+          "school": {
+            "mean": 0,
+            "median": 5,
+            "standardDeviation": 0
+          }
+        },
+        {
+          "title": "The course content included a variety of cultures and/or perspectives, acknowledging diversity of society, thought and opinion.",
+          "responses": {
+            "sa": 7,
+            "a": 4,
+            "n": 1,
+            "d": 2,
+            "sd": 0
+          },
+          "course": {
+            "mean": 0,
+            "median": 5,
+            "standardDeviation": 0
+          },
+          "school": {
+            "mean": 0,
+            "median": 5,
+            "standardDeviation": 0
+          }
+        },
+        {
+          "title": "The course helped me develop the ability to communicate clearly about this subject.",
+          "responses": {
+            "sa": 8,
+            "a": 4,
+            "n": 0,
+            "d": 2,
+            "sd": 0
+          },
+          "course": {
+            "mean": 0,
+            "median": 5,
+            "standardDeviation": 0
+          },
+          "school": {
+            "mean": 0,
+            "median": 5,
+            "standardDeviation": 0
+          }
+        },
+        {
+          "title": "My overall evaluation of the course is:",
+          "responses": {
+            "e": 7,
+            "aa": 4,
+            "a": 3,
+            "ba": 0,
+            "vp": 0
+          },
+          "course": {
+            "mean": 0,
+            "median": 5,
+            "standardDeviation": 0
+          },
+          "school": {
+            "mean": 0,
+            "median": 5,
+            "standardDeviation": 0
+          }
+        }
+      ],
+      "comments": [
+        {
+          "text": "This class was extremely difficult given the time of the class and the fact that is was online.",
+          "tags": ["critical"]
+        },
+        {
+          "text": "I really enjoyed the content of this class and think it is very useful, for example when making a personal portfolio website. Overall a great class.",
+          "tags": ["critical"]
+        },
+        {
+          "text": "I think this class excelled both in teaching us both how to design interactive media visually, as well as how to use Xd and code in HTML, CSS and some JS in order to plan out and create the websites themselves. It was very helpful to watch the process of how to make things in Xd or VS Code, and the opportunity to revisit the process through the recorded lectures made understanding what to do very easy. The only thing that was unclear to me was how participation was graded, and it wasn't clear that it would be so reliant on statistics. Also, it was very concerning that grades were only released within a week of classes ending, but the class had many opportunities to present projects which could help gauge my performance in class somewhat.",
+          "tags": ["positive", "critical"]
+        },
+        {
+          "text": "Well–spaced and well–rounded; good layout for developing a solid foundation of skills.",
+          "tags": ["positive"]
+        },
+        {
+          "text": "An excellent course that I would recommend nearly everyone at UNC take. Smooth and effective websites are important in every industry and this class gives you all the building blocks to make one.",
+          "tags": ["positive"]
+        },
+        {
+          "text": "I really enjoyed this course! The assignments, projects, pacing, and class instruction were all really relevant and interesting.",
+          "tags": ["positive"]
+        },
+        {
+          "text": "Really sucked that this class was remote. I think I would've paid more attention if this was in person but I really did enjoy this class and Professor Sipes is very knowledgable about the content in this class.",
+          "tags": ["positive", "critical"]
+        }
+      ]
+    },
+    "instructor": {
+      "questions": [
+        {
+          "title": "The instructor provided opportunities to ask questions of and/or provide comments to the instructor (in class, during office hours, via e-mail, etc.).",
+          "responses": {
+            "sa": 13,
+            "a": 1,
+            "n": 0,
+            "d": 0,
+            "sd": 0
+          },
+          "course": {
+            "mean": 0,
+            "median": 5,
+            "standardDeviation": 0
+          },
+          "school": {
+            "mean": 0,
+            "median": 5,
+            "standardDeviation": 0
+          }
+        },
+        {
+          "title": "The instructor provided feedback that allowed me to improve upon my work throughout the semester.",
+          "responses": {
+            "sa": 5,
+            "a": 5,
+            "n": 2,
+            "d": 1,
+            "sd": 1
+          },
+          "course": {
+            "mean": 0,
+            "median": 5,
+            "standardDeviation": 0
+          },
+          "school": {
+            "mean": 0,
+            "median": 5,
+            "standardDeviation": 0
+          }
+        },
+        {
+          "title": "The instructor skillfully facilitated student involvement and collaboration in the online environment.",
+          "responses": {
+            "sa": 9,
+            "a": 3,
+            "n": 1,
+            "d": 1,
+            "sd": 0
+          },
+          "course": {
+            "mean": 0,
+            "median": 5,
+            "standardDeviation": 0
+          },
+          "school": {
+            "mean": 0,
+            "median": 5,
+            "standardDeviation": 0
+          }
+        },
+        {
+          "title": "The instructor’s way of teaching allowed me to develop or enhance the skills covered by the course.",
+          "responses": {
+            "sa": 10,
+            "a": 3,
+            "n": 1,
+            "d": 0,
+            "sd": 0
+          },
+          "course": {
+            "mean": 0,
+            "median": 5,
+            "standardDeviation": 0
+          },
+          "school": {
+            "mean": 0,
+            "median": 5,
+            "standardDeviation": 0
+          }
+        },
+        {
+          "title": "The instructor provided useful examples to illustrate the principles behind skills taught in the course.",
+          "responses": {
+            "sa": 9,
+            "a": 4,
+            "n": 1,
+            "d": 0,
+            "sd": 0
+          },
+          "course": {
+            "mean": 0,
+            "median": 5,
+            "standardDeviation": 0
+          },
+          "school": {
+            "mean": 0,
+            "median": 5,
+            "standardDeviation": 0
+          }
+        },
+        {
+          "title": "The instructor was able to demonstrate the skills taught in the course.",
+          "responses": {
+            "sa": 11,
+            "a": 1,
+            "n": 2,
+            "d": 0,
+            "sd": 0
+          },
+          "course": {
+            "mean": 0,
+            "median": 5,
+            "standardDeviation": 0
+          },
+          "school": {
+            "mean": 0,
+            "median": 5,
+            "standardDeviation": 0
+          }
+        },
+        {
+          "title": "My overall feeling about this instructor (Andrew Sipes) is:",
+          "responses": {
+            "e": 10,
+            "aa": 3,
+            "a": 1,
+            "ba": 0,
+            "vp": 0
+          },
+          "course": {
+            "mean": 0,
+            "median": 5,
+            "standardDeviation": 0
+          },
+          "school": {
+            "mean": 0,
+            "median": 5,
+            "standardDeviation": 0
+          }
+        }
+      ],
+      "comments": [
+        {
+          "text": "Professor Sipes was very very helpful. He responded to concerns in a very timely manner and was always willing to help even on Sunday at 10am",
+          "tags": ["positive"]
+        },
+        {
+          "text": "I enjoyed Andrew a lot, but I had a lot of difficulties engaging with the class lectures.",
+          "tags": ["positive", "critical"]
+        },
+        {
+          "text": "Andrew is an excellent teacher. He is very understanding and wants us all to succeed. I would’ve appreciated if he had returned our project grades earlier in the semester.",
+          "tags": ["positive", "critical"]
+        },
+        {
+          "text": "I really enjoyed having Professor Sipes this semester because I knew he was always available to help, responded as quickly as he could, and I always walked away understanding the material more after office hours.",
+          "tags": ["positive"]
+        },
+        {
+          "text": "I think Prof. Sipes was an amazing professor. He definitely had everything under control with this semester, despite it being online. He understands the tools he has available, and had set up Slack as a good place both for communicating and collaborating with work outside of lecture time. I found that he was quick to respond to any messages I would have when asking for help.",
+          "tags": ["positive"]
+        },
+        {
+          "text": "A very thoughtful professor who consistently checked in on us as students and was consistently available in and outside of class for feedback and help. Would definitely take again.",
+          "tags": ["positive"]
+        },
+        {
+          "text": "He has been very accommodating and kind throughout this difficult semester. He really cares about his students and is very empathetic.",
+          "tags": ["positive"]
+        },
+        {
+          "text": "Andrew was a very experienced and helpful instructor who really knew his stuff. He was very responsive when I asked for help and was always able to help me through even the toughest of problems. The only negative is we didn't get a ton of feedback in terms of grades until the end of the semester would like to have seen my early project grades sooner to be able to see what I needed to improve on in later projects. Also, I thought the grading of participation was somewhat harsh, I contributed in class and on slack throughout the semester so it was a bit confusing to see a low grade for participation. I think anyone who contributes regularly should be getting an A in that category rather than on the sliding scale that was used. But otherwise, a great teacher who I would highly reccomend.",
+          "tags": ["positive", "critical"]
+        },
+        {
+          "text": "This professor went above and beyond in providing help to his students. He was always very responsive and easy to reach (via our class Slack). He was always super nice about the most mundane questions and I really felt supported by him!",
+          "tags": ["positive"]
+        },
+        {
+          "text": "Always helpful, attentive and willing to spend so much time out of class to make things for the students work, I genuinely don't think I've had an instructor as helpful and overall kind as Andrew Sipes. I admit moments of the class were entirely my fault, from procrastinating assignments to plain not doing the work thoroughly enough, but Andrew would always apologize and make time for everyone in the class.",
+          "tags": ["positive"]
+        }
+      ]
+    }
+  }
+}

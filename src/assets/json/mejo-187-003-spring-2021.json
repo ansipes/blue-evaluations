@@ -1,0 +1,299 @@
+{
+  "about": {
+    "audience": 16,
+    "received": 13,
+    "instructor": "Andrew Nicholas Sipes",
+    "course": "Foundations of Interactive Media",
+    "department": "MEJO",
+    "number": 187,
+    "section": 3,
+    "semester": "Spring",
+    "year": 2021
+  },
+  "sections": {
+    "course": {
+      "questions": [
+        {
+          "title": "The course syllabus, learning objectives, schedule and grading scheme were clear to me.",
+          "responses": {
+            "sa": 9,
+            "a": 4,
+            "n": 0,
+            "d": 0,
+            "sd": 0
+          },
+          "course": {
+            "mean": 4.69,
+            "median": 5,
+            "standardDeviation": 0.48
+          },
+          "school": {
+            "mean": 4.37,
+            "median": 5,
+            "standardDeviation": 0.87
+          }
+        },
+        {
+          "title": "The course content included a variety of cultures and/or perspectives, acknowledging diversity of society, thought and opinion.",
+          "responses": {
+            "sa": 8,
+            "a": 3,
+            "n": 2,
+            "d": 0,
+            "sd": 0
+          },
+          "course": {
+            "mean": 4.46,
+            "median": 5,
+            "standardDeviation": 0.78
+          },
+          "school": {
+            "mean": 4.44,
+            "median": 5,
+            "standardDeviation": 0.77
+          }
+        },
+        {
+          "title": "The course helped me develop the ability to communicate clearly about this subject.",
+          "responses": {
+            "sa": 7,
+            "a": 5,
+            "n": 1,
+            "d": 0,
+            "sd": 0
+          },
+          "course": {
+            "mean": 4.46,
+            "median": 5,
+            "standardDeviation": 0.66
+          },
+          "school": {
+            "mean": 4.55,
+            "median": 5,
+            "standardDeviation": 0.67
+          }
+        },
+        {
+          "title": "My overall evaluation of the course is:",
+          "responses": {
+            "e": 10,
+            "aa": 1,
+            "a": 2,
+            "ba": 0,
+            "vp": 0
+          },
+          "course": {
+            "mean": 4.62,
+            "median": 5,
+            "standardDeviation": 0.77
+          },
+          "school": {
+            "mean": 4.38,
+            "median": 5,
+            "standardDeviation": 0.84
+          }
+        }
+      ],
+      "comments": [
+        {
+          "text": "I loved this course, especially since I didn't think beforehand that I would enjoy web design/development as much as I did. I loved the projects (even the difficult parts), and all of the demonstrations were very interesting. I feel like I learned a lot and only want to learn more!",
+          "tags": ["positive"]
+        },
+        {
+          "text": "I really enjoyed the opportunities to present and hearing my classmates' presentation. That is probably the most valuable thing I've gotten outside of the class, besides the technical things, the soft skill of communicating design thinking and process. Also, I learned to be much more open–minded and diverse in the way I think about design and development.",
+          "tags": ["positive"]
+        },
+        {
+          "text": "This professor and course was excellent!",
+          "tags": ["positive"]
+        },
+        {
+          "text": "This class was challenging but very fun!",
+          "tags": ["positive"]
+        },
+        {
+          "text": "It was often frustrating to be a fully remote student in this course. Though our class was very small, I know almost no one in the class. More collaboration would have been beneficial, as well as more engaging discussions.",
+          "tags": ["critical"]
+        }
+      ]
+    },
+    "instructor": {
+      "questions": [
+        {
+          "title": "The instructor provided opportunities to ask questions of and/or provide comments to the instructor (in class, during office hours, via e-mail, etc.).",
+          "responses": {
+            "sa": 12,
+            "a": 1,
+            "n": 0,
+            "d": 0,
+            "sd": 0
+          },
+          "course": {
+            "mean": 4.92,
+            "median": 5,
+            "standardDeviation": 0.28
+          },
+          "school": {
+            "mean": 4.73,
+            "median": 5,
+            "standardDeviation": 0.54
+          }
+        },
+        {
+          "title": "The instructor provided feedback that allowed me to improve upon my work throughout the semester.",
+          "responses": {
+            "sa": 11,
+            "a": 2,
+            "n": 0,
+            "d": 0,
+            "sd": 0
+          },
+          "course": {
+            "mean": 4.85,
+            "median": 5,
+            "standardDeviation": 0.38
+          },
+          "school": {
+            "mean": 4.44,
+            "median": 5,
+            "standardDeviation": 0.86
+          }
+        },
+        {
+          "title": "The instructor skillfully facilitated student involvement and collaboration in the online environment.",
+          "responses": {
+            "sa": 7,
+            "a": 5,
+            "n": 0,
+            "d": 1,
+            "sd": 0
+          },
+          "course": {
+            "mean": 4.38,
+            "median": 5,
+            "standardDeviation": 0.87
+          },
+          "school": {
+            "mean": 4.56,
+            "median": 5,
+            "standardDeviation": 0.74
+          }
+        },
+        {
+          "title": "The instructor’s way of teaching allowed me to develop or enhance the skills covered by the course.",
+          "responses": {
+            "sa": 9,
+            "a": 4,
+            "n": 0,
+            "d": 0,
+            "sd": 0
+          },
+          "course": {
+            "mean": 4.69,
+            "median": 5,
+            "standardDeviation": 0.48
+          },
+          "school": {
+            "mean": 4.52,
+            "median": 5,
+            "standardDeviation": 0.76
+          }
+        },
+        {
+          "title": "The instructor provided useful examples to illustrate the principles behind skills taught in the course.",
+          "responses": {
+            "sa": 10,
+            "a": 3,
+            "n": 0,
+            "d": 0,
+            "sd": 0
+          },
+          "course": {
+            "mean": 4.77,
+            "median": 5,
+            "standardDeviation": 0.44
+          },
+          "school": {
+            "mean": 4.62,
+            "median": 5,
+            "standardDeviation": 0.69
+          }
+        },
+        {
+          "title": "The instructor was able to demonstrate the skills taught in the course.",
+          "responses": {
+            "sa": 12,
+            "a": 1,
+            "n": 0,
+            "d": 0,
+            "sd": 0
+          },
+          "course": {
+            "mean": 4.92,
+            "median": 5,
+            "standardDeviation": 0.28
+          },
+          "school": {
+            "mean": 4.68,
+            "median": 5,
+            "standardDeviation": 0.6
+          }
+        },
+        {
+          "title": "My overall feeling about this instructor (Andrew Sipes) is:",
+          "responses": {
+            "e": 12,
+            "aa": 1,
+            "a": 0,
+            "ba": 0,
+            "vp": 0
+          },
+          "course": {
+            "mean": 4.92,
+            "median": 5,
+            "standardDeviation": 0.28
+          },
+          "school": {
+            "mean": 4.59,
+            "median": 5,
+            "standardDeviation": 0.71
+          }
+        }
+      ],
+      "comments": [
+        {
+          "text": "I really enjoyed having Andrew as a professor, and I thought he did a great job of making sure we were all on the same page and providing quick and helpful feedback. Being able to communicate on Slack was extremely helpful. My one complaint is that I sometimes struggled to pay attention to the lectures, but that was mainly a me and zoom issue. The use of demonstrations made up for my lack of attention.",
+          "tags": ["positive", "critical"]
+        },
+        {
+          "text": "Professor Sipes is an incredibly kind and helpful instructor. One of the best I've had in my college experience. His explanations were very clear and supported by examples as well as genuine willingness to help. I wish I could take more classes with him.",
+          "tags": ["positive"]
+        },
+        {
+          "text": "Professor Sipes is really a cool professor and makes class interesting. I had a great semester with him",
+          "tags": ["positive"]
+        },
+        {
+          "text": "Professor Sipes was always available for office hours or for a quick question on the help channel of the class Slack, which was reassuring and helpful towards me, a beginner at many of the skills introduced in this class. Professor Sipes was also encouraging and helpful towards questions we may have, and provided real–world context for the skills and concepts we learned in class.",
+          "tags": ["positive"]
+        },
+        {
+          "text": "Professor Sipes was an excellent Professor. He was very committed to our learning and willing to work with us if we were struggling. He was also super patient, which is rare characteristic in college professors.",
+          "tags": ["positive"]
+        },
+        {
+          "text": "Professor Andrew is really approachable and helpful! He really cares about his students, hoping them to really develop useful skills for later use. I had no idea about HTML, JS, and CSS before. I cannot believe that I can create my own interactive web one day. All thanks to Professor Andrew!",
+          "tags": ["positive"]
+        },
+        {
+          "text": "He is one of the best professors I have ever had! He is so helpful and kind",
+          "tags": ["positive"]
+        },
+        {
+          "text": "Andrew is a great professor. The last time I did anything was coding was in freshman year of high school, and it had nothing to do with HTML. However, I feel like I didn't have too much of a hard time, even though some of the coding was difficult. Andrew did a great job with lectures, and particularly with demonstrations, which were really helpful when I went to do my own coding. Andrew as also always super helpful. He was always available for help. whether that was through Zoom or Slack, and he also did a really good job of letting his students know when he would be available. He even made a final grade calculator for this specific class, which was insane to me because I have never had a teacher create a whole program/website to help their students like that. I would definitely recommend Andrew to anyone taking MEJO 187.",
+          "tags": ["positive"]
+        }
+      ]
+    }
+  }
+}

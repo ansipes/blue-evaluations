@@ -1,0 +1,275 @@
+{
+  "about": {
+    "audience": 17,
+    "received": 15,
+    "instructor": "Andrew Nicholas Sipes",
+    "course": "Foundations of Interactive Media",
+    "department": "MEJO",
+    "number": 187,
+    "section": 3,
+    "semester": "Fall",
+    "year": 2019
+  },
+  "sections": {
+    "course": {
+      "questions": [
+        {
+          "title": "The course syllabus, learning objectives, schedule and grading scheme were clear to me.",
+          "responses": {
+            "sa": 7,
+            "a": 7,
+            "n": 1,
+            "d": 0,
+            "sd": 0
+          },
+          "course": {
+            "mean": 4.4,
+            "median": 4.0,
+            "standardDeviation": 0.63
+          },
+          "school": {
+            "mean": 4.26,
+            "median": 5,
+            "standardDeviation": 0.95
+          }
+        },
+        {
+          "title": "The course content included a variety of cultures and/or perspectives, acknowledging diversity of society, thought and opinion.",
+          "responses": {
+            "sa": 3,
+            "a": 3,
+            "n": 6,
+            "d": 0,
+            "sd": 0
+          },
+          "course": {
+            "mean": 3.75,
+            "median": 3.5,
+            "standardDeviation": 0.87
+          },
+          "school": {
+            "mean": 4.32,
+            "median": 5,
+            "standardDeviation": 0.84
+          }
+        },
+        {
+          "title": "The course helped me develop the ability to communicate clearly about this subject.",
+          "responses": {
+            "sa": 7,
+            "a": 5,
+            "n": 3,
+            "d": 0,
+            "sd": 0
+          },
+          "course": {
+            "mean": 4.27,
+            "median": 4,
+            "standardDeviation": 0.8
+          },
+          "school": {
+            "mean": 4.4,
+            "median": 5,
+            "standardDeviation": 0.77
+          }
+        },
+        {
+          "title": "My overall evaluation of the course is:",
+          "responses": {
+            "e": 7,
+            "aa": 4,
+            "a": 4,
+            "ba": 0,
+            "vp": 0
+          },
+          "course": {
+            "mean": 4.2,
+            "median": 4,
+            "standardDeviation": 0.86
+          },
+          "school": {
+            "mean": 4.19,
+            "median": 4.0,
+            "standardDeviation": 0.94
+          }
+        }
+      ],
+      "comments": [
+        {
+          "text": "Everything about the course was very clear (expectations and material)",
+          "tags": ["positive"]
+        },
+        {
+          "text": "I didn't like the content of this course because I'm not very good at it. BUT I really liked Andrew. Very informative, helpful, and nice. Would recommend taking the course to those who have Andrew as their professor.",
+          "tags": ["positive", "critical"]
+        },
+        {
+          "text": "The syllabus has been a bit confusing for me, it might be personal, but I would appreciate some more details to be included in the syllabus. Grading for most assignments and projects were clear, but there were some times I felt unclear on what was expected in the project/assignment.",
+          "tags": ["critical"]
+        },
+        {
+          "text": "AMAZING SO FUN",
+          "tags": ["positive"]
+        }
+      ]
+    },
+    "instructor": {
+      "questions": [
+        {
+          "title": "The instructor provided opportunities to ask questions of and/or provide comments to the instructor (in class, during office hours, via e-mail, etc.).",
+          "responses": {
+            "sa": 12,
+            "a": 3,
+            "n": 0,
+            "d": 0,
+            "sd": 0
+          },
+          "course": {
+            "mean": 4.8,
+            "median": 5,
+            "standardDeviation": 0.41
+          },
+          "school": {
+            "mean": 4.63,
+            "median": 5,
+            "standardDeviation": 0.63
+          }
+        },
+        {
+          "title": "The instructor provided feedback that allowed me to improve upon my work throughout the semester.",
+          "responses": {
+            "sa": 10,
+            "a": 4,
+            "n": 0,
+            "d": 1,
+            "sd": 0
+          },
+          "course": {
+            "mean": 4.53,
+            "median": 5,
+            "standardDeviation": 0.83
+          },
+          "school": {
+            "mean": 4.34,
+            "median": 5,
+            "standardDeviation": 0.91
+          }
+        },
+        {
+          "title": "The instructor’s way of teaching allowed me to develop or enhance the skills covered by the course.",
+          "responses": {
+            "sa": 6,
+            "a": 4,
+            "n": 4,
+            "d": 1,
+            "sd": 0
+          },
+          "course": {
+            "mean": 4.0,
+            "median": 4,
+            "standardDeviation": 1
+          },
+          "school": {
+            "mean": 4.32,
+            "median": 5,
+            "standardDeviation": 0.98
+          }
+        },
+        {
+          "title": "The instructor provided useful examples to illustrate the principles behind skills taught in the course.",
+          "responses": {
+            "sa": 10,
+            "a": 3,
+            "n": 1,
+            "d": 1,
+            "sd": 0
+          },
+          "course": {
+            "mean": 4.47,
+            "median": 5,
+            "standardDeviation": 0.92
+          },
+          "school": {
+            "mean": 4.45,
+            "median": 5,
+            "standardDeviation": 0.82
+          }
+        },
+        {
+          "title": "The instructor was able to demonstrate the skills taught in the course.",
+          "responses": {
+            "sa": 11,
+            "a": 3,
+            "n": 1,
+            "d": 0,
+            "sd": 0
+          },
+          "course": {
+            "mean": 4.67,
+            "median": 5,
+            "standardDeviation": 0.62
+          },
+          "school": {
+            "mean": 4.5,
+            "median": 5,
+            "standardDeviation": 0.78
+          }
+        },
+        {
+          "title": "My overall feeling about this instructor (Andrew Sipes) is:",
+          "responses": {
+            "e": 8,
+            "aa": 4,
+            "a": 3,
+            "ba": 0,
+            "vp": 0
+          },
+          "course": {
+            "mean": 4.33,
+            "median": 5,
+            "standardDeviation": 0.82
+          },
+          "school": {
+            "mean": 4.43,
+            "median": 5,
+            "standardDeviation": 0.87
+          }
+        }
+      ],
+      "comments": [
+        {
+          "text": "Very reasonable.",
+          "tags": ["positive"]
+        },
+        {
+          "text": "This was a difficult class for me, but Mr. Sipes was fantastic about holding meetings, providing feedback on assignments and listening to student's feedback about his teaching and making adjustments accordingly. I greatly appreciated it!",
+          "tags": ["positive"]
+        },
+        {
+          "text": "very helpful and attentive to individual students",
+          "tags": ["positive"]
+        },
+        {
+          "text": "Andrew is very nice and very helpful, I appreciate his time for helping each one of us on our assignment. I hope he can give a clearer grading system to us.",
+          "tags": ["positive", "critical"]
+        },
+        {
+          "text": "professor sipes helped me so much through material that was challenging and sometimes more frustrating than any other course I've taken at UNC. Not only were his lectures helpful but more importantly he was incredible when it came one–on–one assistance. He was very patient and helpful when it came to working through challenging material and problems I was having. Whenever I was feeling discouraged he was able to talk me through it and make me confident that I could do the assignment well",
+          "tags": ["positive"]
+        },
+        {
+          "text": "I love the example code that we would go through together in class! I think that helped me a lot on completing projects. Office hours were very convenient and helpful as well.",
+          "tags": ["positive"]
+        },
+        {
+          "text": "My feedback never enabled me to do better, if I got substantial feedback at all. I got 11 points off on my project for two minor things, one of which I had been told would be excused and graded on the next project. This class requires and expects more low–skilled and inexperienced students, yet the grading is as if we've been doing this forever.",
+          "tags": ["critical"]
+        },
+        {
+          "text": "Professor Sipes is the most patient professor I have ever worked with. No matter how many stupid questions students ask or how much help students need completing basic tasks, Professor Sipes is patient and willing to help students wherever they are at. While this is a quality that I really appreciate about Professor Sipes and is definitely a major strength, sometimes his patience slowed down the course of the class to help one student, making other students wait around. Perhaps this can be fixed by allowing students to work in pairs to solve simple problems rather than having the teacher help every student individually. Additionally, I think the class did a great job of showing students specific skills and how to accomplish specific tasks. However, I think that it could be improved upon by focusing on teaching problem solving skills. Often times I found myself getting stuck on a problem and not knowing how to move forward without further individual instruction from Professor Sipes. I think this could be improved upon if the class was slightly more focused on problem solving skills rather than specific examples. Lastly, as the semester progressed I found that Professor Sipes took the feedback students gave him to heart and improved his teaching methods!! By the end of the semester, the class was working on in class examples and then turning them in for a completion grade. While I think this was a good first step in having hands–on work, I think it needs to be expanded upon. Right now I felt like we were copying code while Professor Sipes walked through the problem. In the future I would suggest Professor Sipes walking through a problem with the class and explaining how to do something. Then providing students a very similar problem with one or two small twists to complete in class to turn in for the completion grade. I think this in itself will develop problem solving skills and allow students to gain a deeper understanding of the lesson while still being a manageable problem. Overall, I really enjoyed this class and thought that Professor Sipes did a great job! He was so nice and patient and wanted his students to succeed. I really appreciated all of his zoom office hours and the feedback he would willing give on projects! Professor Sipes truly invested in this class and his students!!",
+          "tags": ["positive", "critical"]
+        }
+      ]
+    }
+  }
+}
