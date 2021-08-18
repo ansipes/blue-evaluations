@@ -5,60 +5,24 @@
     >
       Blue Evaluation PDFs
     </a>
-    <article v-for="(evaluation, index) in evaluations" :key="index">
-      <h1>{{ evaluation.about.course }}</h1>
-      <h2>
-        {{ evaluation.about.department }} {{ evaluation.about.number }}-{{
-          evaluation.about.section
-        }}
-        {{ evaluation.about.semester }} {{ evaluation.about.year }}
-      </h2>
-      <p>{{ evaluation.about.instructor }}</p>
-      <p>{{ evaluation.about.received }}/{{ evaluation.about.audience }}</p>
-      <section v-for="(section, index) in evaluation.sections" :key="index">
-        <h1>{{ section.title }}</h1>
-        <article v-for="(question, index) in section.questions" :key="index">
-          <h1>{{ index + 1 }}. {{ question.title }}</h1>
-          <table>
-            <thead>
-              <th>Course</th>
-              <th>School</th>
-            </thead>
-            <tbody>
-              <tr>
-                <td>{{ question.course.mean }}</td>
-                <td>{{ question.school.mean }}</td>
-              </tr>
-              <tr>
-                <td>{{ question.course.median }}</td>
-                <td>{{ question.school.median }}</td>
-              </tr>
-              <tr>
-                <td>{{ question.course.standardDeviation }}</td>
-                <td>{{ question.school.standardDeviation }}</td>
-              </tr>
-            </tbody>
-          </table>
-        </article>
-        <article v-for="(comment, index) in section.comments" :key="index">
-          <p>
-            <span v-for="(tag, index) in comment.tags" :key="index">
-              {{ tag }}
-            </span>
-          </p>
-          <p>{{ comment.text }}</p>
-        </article>
-      </section>
-    </article>
+    <evaluation
+      v-for="(evaluation, index) in evaluations"
+      :key="index"
+      :evaluation="evaluation"
+    />
   </main>
 </template>
 
 <script>
 import { ref } from "vue";
 import e from "./assets/json/evaluations.json";
+import Evaluation from "@/components/Evaluation.vue";
 
 export default {
   name: "App",
+  components: {
+    Evaluation,
+  },
   setup() {
     const evaluations = ref(e);
 
