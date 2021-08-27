@@ -195,7 +195,7 @@
         </dd>
         <dt>Are you becoming a better instructor?</dt>
         <dd>
-          <p>Thankfully, yes! Spring 2021 was my best semester so far.</p>
+          <p>Yes! Spring 2021 was my best semester so far.</p>
           <p>
             I plan to update this site with charts that illustrate my progress.
             If you would like to see that data now, please
