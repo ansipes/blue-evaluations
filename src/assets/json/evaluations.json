@@ -121,6 +121,7 @@
             }
           },
           {
+            "flag": "course",
             "title": "My overall evaluation of the course is:",
             "responses": [
               {
@@ -175,7 +176,8 @@
           },
           {
             "text": "It was often frustrating to be a fully remote student in this course. Though our class was very small, I know almost no one in the class. More collaboration would have been beneficial, as well as more engaging discussions.",
-            "tags": ["critical"]
+            "tags": ["critical"],
+            "response": "To improve the class, I am incorporating more collaborative assignments, more in class critiques, and in-lecture engagement tools like Poll Everywhere."
           }
         ]
       },
@@ -393,6 +395,7 @@
             }
           },
           {
+            "flag": "instructor",
             "title": "My overall feeling about this instructor (Andrew Sipes) is:",
             "responses": [
               {
@@ -430,8 +433,9 @@
         ],
         "comments": [
           {
-            "text": "I really enjoyed having Andrew as a professor, and I thought he did a great job of making sure we were all on the same page and providing quick and helpful feedback. Being able to communicate on Slack was extremely helpful. My one complaint is that I sometimes struggled to pay attention to the lectures, but that was mainly a me and zoom issue. The use of demonstrations made up for my lack of attention.",
-            "tags": ["positive", "critical"]
+            "text": "I really enjoyed having Andrew as a professor, and I thought he did a great job of making sure we were all on the same page and providing quick and helpful feedback. Being able to communicate on Slack was extremely helpful. <mark>My one complaint is that I sometimes struggled to pay attention to the lectures, but that was mainly a me and zoom issue.</mark> The use of demonstrations made up for my lack of attention.",
+            "tags": ["positive", "critical"],
+            "response": "I am experimenting with shorter lectures. I am also trying to break lectures up with activities to maintain engagement."
           },
           {
             "text": "Professor Sipes is an incredibly kind and helpful instructor. One of the best I've had in my college experience. His explanations were very clear and supported by examples as well as genuine willingness to help. I wish I could take more classes with him.",
@@ -587,6 +591,7 @@
             }
           },
           {
+            "flag": "course",
             "title": "My overall evaluation of the course is:",
             "responses": [
               {
@@ -625,15 +630,17 @@
         "comments": [
           {
             "text": "This class was extremely difficult given the time of the class and the fact that is was online.",
-            "tags": ["critical"]
+            "tags": ["critical"],
+            "response": "I have revamped support resources and streamlined the metawork that students tend to find frustrating. For example, instead of having to make every web project from scratch, students can now use a template that I made on GitHub that includes everything they need."
           },
           {
             "text": "I really enjoyed the content of this class and think it is very useful, for example when making a personal portfolio website. Overall a great class.",
-            "tags": ["critical"]
+            "tags": ["positive"]
           },
           {
-            "text": "I think this class excelled both in teaching us both how to design interactive media visually, as well as how to use Xd and code in HTML, CSS and some JS in order to plan out and create the websites themselves. It was very helpful to watch the process of how to make things in Xd or VS Code, and the opportunity to revisit the process through the recorded lectures made understanding what to do very easy. The only thing that was unclear to me was how participation was graded, and it wasn't clear that it would be so reliant on statistics. Also, it was very concerning that grades were only released within a week of classes ending, but the class had many opportunities to present projects which could help gauge my performance in class somewhat.",
-            "tags": ["positive", "critical"]
+            "text": "I think this class excelled both in teaching us both how to design interactive media visually, as well as how to use Xd and code in HTML, CSS and some JS in order to plan out and create the websites themselves. It was very helpful to watch the process of how to make things in Xd or VS Code, and the opportunity to revisit the process through the recorded lectures made understanding what to do very easy. <mark>The only thing that was unclear to me was how participation was graded, and it wasn't clear that it would be so reliant on statistics. Also, it was very concerning that grades were only released within a week of classes ending,</mark> but the class had many opportunities to present projects which could help gauge my performance in class somewhat.",
+            "tags": ["positive", "critical"],
+            "response": "To make grading of participation more clear, I have created a rubric that is available for students to view on Sakai."
           },
           {
             "text": "Well–spaced and well–rounded; good layout for developing a solid foundation of skills.",
@@ -648,8 +655,9 @@
             "tags": ["positive"]
           },
           {
-            "text": "Really sucked that this class was remote. I think I would've paid more attention if this was in person but I really did enjoy this class and Professor Sipes is very knowledgable about the content in this class.",
-            "tags": ["positive", "critical"]
+            "text": "<mark>Really sucked that this class was remote. I think I would've paid more attention if this was in person</mark> but I really did enjoy this class and Professor Sipes is very knowledgable about the content in this class.",
+            "tags": ["positive", "critical"],
+            "response": "I am experimenting with shorter lectures. I am also trying to break lectures up with activities to maintain engagement."
           }
         ]
       },
@@ -867,6 +875,7 @@
             }
           },
           {
+            "flag": "instructor",
             "title": "My overall feeling about this instructor (Andrew Sipes) is:",
             "responses": [
               {
@@ -908,12 +917,14 @@
             "tags": ["positive"]
           },
           {
-            "text": "I enjoyed Andrew a lot, but I had a lot of difficulties engaging with the class lectures.",
-            "tags": ["positive", "critical"]
+            "text": "I enjoyed Andrew a lot, but <mark>I had a lot of difficulties engaging with the class lectures</mark>.",
+            "tags": ["positive", "critical"],
+            "response": "I am experimenting with shorter lectures. I am also trying to break lectures up with activities to maintain engagement."
           },
           {
-            "text": "Andrew is an excellent teacher. He is very understanding and wants us all to succeed. I would’ve appreciated if he had returned our project grades earlier in the semester.",
-            "tags": ["positive", "critical"]
+            "text": "Andrew is an excellent teacher. He is very understanding and wants us all to succeed. <mark>I would’ve appreciated if he had returned our project grades earlier in the semester.</mark>",
+            "tags": ["positive", "critical"],
+            "response": "I have committed to a turn around time of 1 week for all grades going forward. Unfortunately, I was slow to grade in Fall 2020. After making a change, I had no comments about turn around time in Spring 2021."
           },
           {
             "text": "I really enjoyed having Professor Sipes this semester because I knew he was always available to help, responded as quickly as he could, and I always walked away understanding the material more after office hours.",
@@ -932,8 +943,9 @@
             "tags": ["positive"]
           },
           {
-            "text": "Andrew was a very experienced and helpful instructor who really knew his stuff. He was very responsive when I asked for help and was always able to help me through even the toughest of problems. The only negative is we didn't get a ton of feedback in terms of grades until the end of the semester would like to have seen my early project grades sooner to be able to see what I needed to improve on in later projects. Also, I thought the grading of participation was somewhat harsh, I contributed in class and on slack throughout the semester so it was a bit confusing to see a low grade for participation. I think anyone who contributes regularly should be getting an A in that category rather than on the sliding scale that was used. But otherwise, a great teacher who I would highly reccomend.",
-            "tags": ["positive", "critical"]
+            "text": "Andrew was a very experienced and helpful instructor who really knew his stuff. He was very responsive when I asked for help and was always able to help me through even the toughest of problems. <mark>The only negative is we didn't get a ton of feedback in terms of grades until the end of the semester would like to have seen my early project grades sooner to be able to see what I needed to improve on in later projects. Also, I thought the grading of participation was somewhat harsh, I contributed in class and on slack throughout the semester so it was a bit confusing to see a low grade for participation. I think anyone who contributes regularly should be getting an A in that category rather than on the sliding scale that was used.</mark> But otherwise, a great teacher who I would highly reccomend.",
+            "tags": ["positive", "critical"],
+            "response": "I have committed to a turn around time of 1 week for all grades going forward. Unfortunately, I was slow to grade in Fall 2020. After making a change, I had no comments about turn around time in Spring 2021. To make grading of participation more clear, I have created a rubric that is available for students to view on Sakai."
           },
           {
             "text": "This professor went above and beyond in providing help to his students. He was always very responsive and easy to reach (via our class Slack). He was always super nice about the most mundane questions and I really felt supported by him!",
@@ -1069,6 +1081,7 @@
             }
           },
           {
+            "flag": "course",
             "title": "My overall evaluation of the course is:",
             "responses": [
               {
@@ -1320,6 +1333,7 @@
             }
           },
           {
+            "flag": "instructor",
             "title": "My overall feeling about this instructor (Andrew Sipes) is:",
             "responses": [
               {
@@ -1369,8 +1383,9 @@
             "tags": ["positive"]
           },
           {
-            "text": "I think Andrew Sipes is great but sometimes felt that he gave demos that were not useful. I wish he asked students what would be useful to them or not, especially since going online. However, he really knows his stuff and will go so far out of his way to help students! Awesome!",
-            "tags": ["mixed"]
+            "text": "I think Andrew Sipes is great but <mark>sometimes felt that he gave demos that were not useful. I wish he asked students what would be useful to them or not, especially since going online.</mark> However, he really knows his stuff and will go so far out of his way to help students! Awesome!",
+            "tags": ["positive", "critical"],
+            "response": "For the code units, I now let students vote on the demos they would like to see in class. I make recordings of previous demos available to current students."
           },
           {
             "text": "Andrew is one of the most supportive instructors I have ever had in my time at UNC. He not only was always making himself available for office hours and after class one–on–one time, but also created a classroom environment where anyone would feel comfortable asking for help and not having all the answers. Couldn’t have been better supported throughout this course and during the online transition time.",
@@ -1514,6 +1529,7 @@
             }
           },
           {
+            "flag": "course",
             "title": "My overall evaluation of the course is:",
             "responses": [
               {
@@ -1555,12 +1571,13 @@
             "tags": ["positive"]
           },
           {
-            "text": "I didn't like the content of this course because I'm not very good at it. BUT I really liked Andrew. Very informative, helpful, and nice. Would recommend taking the course to those who have Andrew as their professor.",
+            "text": "<mark>I didn't like the content of this course because I'm not very good at it.</mark> BUT I really liked Andrew. Very informative, helpful, and nice. Would recommend taking the course to those who have Andrew as their professor.",
             "tags": ["positive", "critical"]
           },
           {
             "text": "The syllabus has been a bit confusing for me, it might be personal, but I would appreciate some more details to be included in the syllabus. Grading for most assignments and projects were clear, but there were some times I felt unclear on what was expected in the project/assignment.",
-            "tags": ["critical"]
+            "tags": ["critical"],
+            "response": "I have since moved to rubrics for all assignments to make expectations more clear."
           },
           {
             "text": "AMAZING SO FUN",
@@ -1747,6 +1764,7 @@
             }
           },
           {
+            "flag": "instructor",
             "title": "My overall feeling about this instructor (Andrew Sipes) is:",
             "responses": [
               {
@@ -1796,8 +1814,9 @@
             "tags": ["positive"]
           },
           {
-            "text": "Andrew is very nice and very helpful, I appreciate his time for helping each one of us on our assignment. I hope he can give a clearer grading system to us.",
-            "tags": ["positive", "critical"]
+            "text": "Andrew is very nice and very helpful, I appreciate his time for helping each one of us on our assignment. <mark>I hope he can give a clearer grading system to us.</mark>",
+            "tags": ["positive", "critical"],
+            "response": "I have since moved to rubrics for all assignments to make expectations more clear."
           },
           {
             "text": "professor sipes helped me so much through material that was challenging and sometimes more frustrating than any other course I've taken at UNC. Not only were his lectures helpful but more importantly he was incredible when it came one–on–one assistance. He was very patient and helpful when it came to working through challenging material and problems I was having. Whenever I was feeling discouraged he was able to talk me through it and make me confident that I could do the assignment well",
@@ -1809,11 +1828,13 @@
           },
           {
             "text": "My feedback never enabled me to do better, if I got substantial feedback at all. I got 11 points off on my project for two minor things, one of which I had been told would be excused and graded on the next project. This class requires and expects more low–skilled and inexperienced students, yet the grading is as if we've been doing this forever.",
-            "tags": ["critical"]
+            "tags": ["critical"],
+            "response": "I have since moved to rubrics for all assignments to make expectations more clear."
           },
           {
-            "text": "Professor Sipes is the most patient professor I have ever worked with. No matter how many stupid questions students ask or how much help students need completing basic tasks, Professor Sipes is patient and willing to help students wherever they are at. While this is a quality that I really appreciate about Professor Sipes and is definitely a major strength, sometimes his patience slowed down the course of the class to help one student, making other students wait around. Perhaps this can be fixed by allowing students to work in pairs to solve simple problems rather than having the teacher help every student individually. Additionally, I think the class did a great job of showing students specific skills and how to accomplish specific tasks. However, I think that it could be improved upon by focusing on teaching problem solving skills. Often times I found myself getting stuck on a problem and not knowing how to move forward without further individual instruction from Professor Sipes. I think this could be improved upon if the class was slightly more focused on problem solving skills rather than specific examples. Lastly, as the semester progressed I found that Professor Sipes took the feedback students gave him to heart and improved his teaching methods!! By the end of the semester, the class was working on in class examples and then turning them in for a completion grade. While I think this was a good first step in having hands–on work, I think it needs to be expanded upon. Right now I felt like we were copying code while Professor Sipes walked through the problem. In the future I would suggest Professor Sipes walking through a problem with the class and explaining how to do something. Then providing students a very similar problem with one or two small twists to complete in class to turn in for the completion grade. I think this in itself will develop problem solving skills and allow students to gain a deeper understanding of the lesson while still being a manageable problem. Overall, I really enjoyed this class and thought that Professor Sipes did a great job! He was so nice and patient and wanted his students to succeed. I really appreciated all of his zoom office hours and the feedback he would willing give on projects! Professor Sipes truly invested in this class and his students!!",
-            "tags": ["positive", "critical"]
+            "text": "Professor Sipes is the most patient professor I have ever worked with. No matter how many stupid questions students ask or how much help students need completing basic tasks, Professor Sipes is patient and willing to help students wherever they are at. While this is a quality that I really appreciate about Professor Sipes and is definitely a major strength, <mark>sometimes his patience slowed down the course of the class to help one student, making other students wait around. Perhaps this can be fixed by allowing students to work in pairs to solve simple problems rather than having the teacher help every student individually.</mark> Additionally, I think the class did a great job of showing students specific skills and how to accomplish specific tasks. However, I think that it could be improved upon by focusing on teaching problem solving skills. <mark>Often times I found myself getting stuck on a problem and not knowing how to move forward without further individual instruction from Professor Sipes. I think this could be improved upon if the class was slightly more focused on problem solving skills rather than specific examples.</mark> Lastly, as the semester progressed I found that Professor Sipes took the feedback students gave him to heart and improved his teaching methods!! By the end of the semester, the class was working on in class examples and then turning them in for a completion grade. While I think this was a good first step in having hands–on work, I think it needs to be expanded upon. Right now I felt like we were copying code while Professor Sipes walked through the problem. In the future I would suggest Professor Sipes walking through a problem with the class and explaining how to do something. Then providing students a very similar problem with one or two small twists to complete in class to turn in for the completion grade. I think this in itself will develop problem solving skills and allow students to gain a deeper understanding of the lesson while still being a manageable problem. Overall, I really enjoyed this class and thought that Professor Sipes did a great job! He was so nice and patient and wanted his students to succeed. I really appreciated all of his zoom office hours and the feedback he would willing give on projects! Professor Sipes truly invested in this class and his students!!",
+            "tags": ["positive", "critical"],
+            "response": "I have since made problem solving a big focus of the class, especially for the code portion. By using Slack for support, I try to strike a balance with students figuring things out on their own, but not becoming demoralized. My current syllabus details my strategy for giving help."
           }
         ]
       }
