@@ -533,7 +533,7 @@ select {
 }
 
 button.active {
-  background: black;
+  background: #13294b;
   color: white;
 }
 
