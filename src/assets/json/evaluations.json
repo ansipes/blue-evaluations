@@ -1839,5 +1839,469 @@
         ]
       }
     ]
+  },
+  {
+    "about": {
+      "audience": 14,
+      "received": 11,
+      "instructor": "Andrew Nicholas Sipes",
+      "course": "Foundations of Interactive Media",
+      "department": "MEJO",
+      "number": 187,
+      "section": 3,
+      "semester": "Fall",
+      "year": 2021
+    },
+    "sections": [
+      {
+        "title": "Course",
+        "questions": [
+          {
+            "title": "The course syllabus, learning objectives, schedule and grading scheme were clear to me.",
+            "responses": [
+              {
+                "label": "Strongly Agree",
+                "value": 10
+              },
+              {
+                "label": "Agree",
+                "value": 1
+              },
+              {
+                "label": "Neutral",
+                "value": 0
+              },
+              {
+                "label": "Disagree",
+                "value": 0
+              },
+              {
+                "label": "Strongly Disagree",
+                "value": 0
+              }
+            ],
+            "course": {
+              "mean": 4.91,
+              "median": 5,
+              "standardDeviation": 0.3
+            },
+            "school": {
+              "mean": 4.32,
+              "median": 5,
+              "standardDeviation": 0.94
+            }
+          },
+          {
+            "title": "The course content included a variety of cultures and/or perspectives, acknowledging diversity of society, thought and opinion.",
+            "responses": [
+              {
+                "label": "Strongly Agree",
+                "value": 8
+              },
+              {
+                "label": "Agree",
+                "value": 3
+              },
+              {
+                "label": "Neutral",
+                "value": 0
+              },
+              {
+                "label": "Disagree",
+                "value": 0
+              },
+              {
+                "label": "Strongly Disagree",
+                "value": 0
+              }
+            ],
+            "course": {
+              "mean": 4.73,
+              "median": 5,
+              "standardDeviation": 0.47
+            },
+            "school": {
+              "mean": 4.46,
+              "median": 5,
+              "standardDeviation": 0.78
+            }
+          },
+          {
+            "title": "The course helped me develop the ability to communicate clearly about this subject.",
+            "responses": [
+              {
+                "label": "Strongly Agree",
+                "value": 8
+              },
+              {
+                "label": "Agree",
+                "value": 3
+              },
+              {
+                "label": "Neutral",
+                "value": 0
+              },
+              {
+                "label": "Disagree",
+                "value": 0
+              },
+              {
+                "label": "Strongly Disagree",
+                "value": 0
+              }
+            ],
+            "course": {
+              "mean": 4.74,
+              "median": 5,
+              "standardDeviation": 0.47
+            },
+            "school": {
+              "mean": 4.46,
+              "median": 5,
+              "standardDeviation": 0.81
+            }
+          },
+          {
+            "flag": "course",
+            "title": "My overall evaluation of the course is:",
+            "responses": [
+              {
+                "label": "Excellent",
+                "value": 7
+              },
+              {
+                "label": "Above Average",
+                "value": 4
+              },
+              {
+                "label": "Average",
+                "value": 0
+              },
+              {
+                "label": "Below Average",
+                "value": 0
+              },
+              {
+                "label": "Very Poor",
+                "value": 0
+              }
+            ],
+            "course": {
+              "mean": 4.64,
+              "median": 5,
+              "standardDeviation": 0.5
+            },
+            "school": {
+              "mean": 4.29,
+              "median": 5,
+              "standardDeviation": 0.9
+            }
+          }
+        ],
+        "comments": [
+          {
+            "text": "The professor was always available for help or questions, made the material manageable, and was overall super nice.",
+            "tags": ["positive"]
+          },
+          {
+            "text": "I loved this class!",
+            "tags": ["positive"]
+          },
+          {
+            "text": "Really enjoyed the class, Andrew is an excellent and invested teacher!!",
+            "tags": ["positive"]
+          },
+          {
+            "text": "I really loved how organized Mr. Sipes is and he is very knowledgeable about the coding. <mark>However, sitting in class for one hour and 45 minutes listening to him lecture was often tiring and it was hard to pay attention to.</mark>",
+            "tags": ["positive", "critical"]
+          },
+          {
+            "text": "Andrew did a great job of asking us what topics we were confused on and then showing examples of how to do them. When we had to present projects and explain how we achieved certain effects, it helped me focus on how to communicate clearly about what I had learned. It also helped me learn from other's perspectives as website designers and creators.",
+            "tags": ["positive"]
+          }
+        ]
+      },
+      {
+        "title": "Instructor",
+        "questions": [
+          {
+            "title": "The instructor provided opportunities to ask questions of and/or provide comments to the instructor (in class, during office hours, via e-mail, etc.).",
+            "responses": [
+              {
+                "label": "Strongly Agree",
+                "value": 11
+              },
+              {
+                "label": "Agree",
+                "value": 0
+              },
+              {
+                "label": "Neutral",
+                "value": 0
+              },
+              {
+                "label": "Disagree",
+                "value": 0
+              },
+              {
+                "label": "Strongly Disagree",
+                "value": 0
+              }
+            ],
+            "course": {
+              "mean": 5,
+              "median": 5,
+              "standardDeviation": 0
+            },
+            "school": {
+              "mean": 4.69,
+              "median": 5,
+              "standardDeviation": 0.61
+            }
+          },
+          {
+            "title": "The instructor provided feedback that allowed me to improve upon my work throughout the semester.",
+            "responses": [
+              {
+                "label": "Strongly Agree",
+                "value": 9
+              },
+              {
+                "label": "Agree",
+                "value": 2
+              },
+              {
+                "label": "Neutral",
+                "value": 0
+              },
+              {
+                "label": "Disagree",
+                "value": 0
+              },
+              {
+                "label": "Strongly Disagree",
+                "value": 0
+              }
+            ],
+            "course": {
+              "mean": 4.82,
+              "median": 5,
+              "standardDeviation": 0.4
+            },
+            "school": {
+              "mean": 4.4,
+              "median": 5,
+              "standardDeviation": 0.9
+            }
+          },
+          {
+            "title": "The instructor skillfully facilitated student involvement and collaboration in the online environment.",
+            "responses": [
+              {
+                "label": "Strongly Agree",
+                "value": 10
+              },
+              {
+                "label": "Agree",
+                "value": 0
+              },
+              {
+                "label": "Neutral",
+                "value": 1
+              },
+              {
+                "label": "Disagree",
+                "value": 0
+              },
+              {
+                "label": "Strongly Disagree",
+                "value": 0
+              }
+            ],
+            "course": {
+              "mean": 4.82,
+              "median": 5,
+              "standardDeviation": 0.6
+            },
+            "school": {
+              "mean": 4.47,
+              "median": 5,
+              "standardDeviation": 0.85
+            }
+          },
+          {
+            "title": "The instructor’s way of teaching allowed me to develop or enhance the skills covered by the course.",
+            "responses": [
+              {
+                "label": "Strongly Agree",
+                "value": 9
+              },
+              {
+                "label": "Agree",
+                "value": 2
+              },
+              {
+                "label": "Neutral",
+                "value": 0
+              },
+              {
+                "label": "Disagree",
+                "value": 0
+              },
+              {
+                "label": "Strongly Disagree",
+                "value": 0
+              }
+            ],
+            "course": {
+              "mean": 4.82,
+              "median": 5,
+              "standardDeviation": 0.4
+            },
+            "school": {
+              "mean": 4.42,
+              "median": 5,
+              "standardDeviation": 0.91
+            }
+          },
+          {
+            "title": "The instructor provided useful examples to illustrate the principles behind skills taught in the course.",
+            "responses": [
+              {
+                "label": "Strongly Agree",
+                "value": 11
+              },
+              {
+                "label": "Agree",
+                "value": 0
+              },
+              {
+                "label": "Neutral",
+                "value": 0
+              },
+              {
+                "label": "Disagree",
+                "value": 0
+              },
+              {
+                "label": "Strongly Disagree",
+                "value": 0
+              }
+            ],
+            "course": {
+              "mean": 5,
+              "median": 5,
+              "standardDeviation": 0
+            },
+            "school": {
+              "mean": 4.42,
+              "median": 5,
+              "standardDeviation": 0.91
+            }
+          },
+          {
+            "title": "The instructor was able to demonstrate the skills taught in the course.",
+            "responses": [
+              {
+                "label": "Strongly Agree",
+                "value": 11
+              },
+              {
+                "label": "Agree",
+                "value": 0
+              },
+              {
+                "label": "Neutral",
+                "value": 0
+              },
+              {
+                "label": "Disagree",
+                "value": 0
+              },
+              {
+                "label": "Strongly Disagree",
+                "value": 0
+              }
+            ],
+            "course": {
+              "mean": 5,
+              "median": 5,
+              "standardDeviation": 0
+            },
+            "school": {
+              "mean": 4.56,
+              "median": 5,
+              "standardDeviation": 0.76
+            }
+          },
+          {
+            "flag": "instructor",
+            "title": "My overall feeling about this instructor (Andrew Sipes) is:",
+            "responses": [
+              {
+                "label": "Excellent",
+                "value": 11
+              },
+              {
+                "label": "Above Average",
+                "value": 0
+              },
+              {
+                "label": "Average",
+                "value": 0
+              },
+              {
+                "label": "Below Average",
+                "value": 0
+              },
+              {
+                "label": "Very Poor",
+                "value": 0
+              }
+            ],
+            "course": {
+              "mean": 5,
+              "median": 5,
+              "standardDeviation": 0
+            },
+            "school": {
+              "mean": 4.52,
+              "median": 5,
+              "standardDeviation": 0.81
+            }
+          }
+        ],
+        "comments": [
+          {
+            "text": "Overall, I really enjoyed this class. It has made me enjoy designing websites and made coding somewhat enjoyable. <mark>The only thing I would change is focusing on Javascript more. I still feel like I don't fully understand how to write Javascript, so doing more demos together in class would help. Also having more open labs during class would be helpful.</mark>",
+            "tags": ["positive", "critical"]
+          },
+          {
+            "text": "Very available, very kind, very helpful. I am not experienced in interactive design but he made it so I wanted to come to class despite of it.",
+            "tags": ["positive"]
+          },
+          {
+            "text": "Andrew is a very responsible instructor, he even held office hour on weekends. He encourages us to do better and he's super down to earth. I definitely recommend him to all of the students!",
+            "tags": ["positive"]
+          },
+          {
+            "text": "Really invested in student success",
+            "tags": ["positive"]
+          },
+          {
+            "text": "He is a super great guy, he is really helpful and kind.",
+            "tags": ["positive"]
+          },
+          {
+            "text": " Andrew was very knowledgeable about the course content. I had come into the course knowing some things, but he helped me take my skills to a higher level, by showing me new ways to achieve the things I wanted, and by taking it slow and being patient when I didn't understand a concept. I think Andrew was a great professor.",
+            "tags": ["positive"]
+          },
+          {
+            "text": "Andrew always let us think and work on our problems first before he helped us. He encourages us to learn more and at the same time making sure none of us is left behind. He is an excellent instructor.",
+            "tags": ["positive"]
+          }
+        ]
+      }
+    ]
   }
 ]

@@ -245,7 +245,10 @@ export default {
       let totals = {};
 
       responses.forEach((response) => {
-        totals[response.label] = response.value;
+        totals[response.label] =
+          typeof totals[response.label] === "number"
+            ? totals[response.label] + response.value
+            : response.value;
       });
 
       let count = Object.values(totals).reduce(
@@ -284,7 +287,10 @@ export default {
       let totals = {};
 
       responses.forEach((response) => {
-        totals[response.label] = response.value;
+        totals[response.label] =
+          typeof totals[response.label] === "number"
+            ? totals[response.label] + response.value
+            : response.value;
       });
 
       let count = Object.values(totals).reduce(
@@ -303,6 +309,7 @@ export default {
         (accumulator, currentValue) => accumulator + currentValue
       );
 
+      console.log(weightedTotal, count);
       return (weightedTotal / count).toFixed(1);
     });
 
